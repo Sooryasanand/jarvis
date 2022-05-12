@@ -29,7 +29,6 @@ todoistAPI = TodoistAPI('253f1e07fa8b6ee5c08d301e8458c71174053b97')
 quotesAPI = "https://api.quotable.io/random"
 quotes = []
 quote_number = 0
-g=Github("Sooryasanand","Soorya200512")
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
